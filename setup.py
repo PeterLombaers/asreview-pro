@@ -59,7 +59,6 @@ setup(
         ],
         "asreview.feature_extraction": [
             "bm25 = asreviewcontrib.pro.bm25:BM25",
-            "scibert = asreviewcontrib.pro.scibert:Scibert",
         ]
     },
 
